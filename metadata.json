@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Playlist Visualizer",
+  "description": "A web application to create custom music playlist visuals. Users can change the background image, logo, titles, and song list to generate a shareable image that looks like a music player screen.",
+  "requestFramePermissions": []
+}
